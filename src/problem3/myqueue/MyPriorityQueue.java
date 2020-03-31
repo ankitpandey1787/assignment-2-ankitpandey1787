@@ -7,7 +7,7 @@
 package problem3.myqueue;
 
 
-import problem3.adt.QueueADT;
+import problem3.QueueADT;
 import problem3.node.Node; 
 public class MyPriorityQueue<E> implements QueueADT<E> { 
 
