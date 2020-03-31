@@ -7,7 +7,7 @@
 package problem3.main;
 
 import problem3.myqueue.MyPriorityQueue;
-import problem3.student.Student;
+import problem3.Student;
 
 // executable class
 // use problem5.student.Student class to create object of student
